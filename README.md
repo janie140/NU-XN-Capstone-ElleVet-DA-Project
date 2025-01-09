@@ -7,7 +7,8 @@ This project aimed to analyze ElleVet’s transaction data to address key busine
 3.	This summary document, which outlines the questions tackled by each team member, datasets used, and the associated code files.
    
 *Dataset Overview
-Our analysis is based on two primary datasets provided by Eleevet:
+
+Our analysis is based on two primary datasets provided by ElleVet:
 1.	‘EVS_sept24Data.csv’:
 A sample of 6,398 rows representing customer transactions, including subscribers and one-time buyers.
 2.	Roux_Active_Vet_File.xlsx:
