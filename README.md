@@ -1,7 +1,5 @@
 # NU-XN-Capstone-ElleVet-DA-Project
-This project aimed to analyze ElleVet’s transaction data to address key business questions regarding customer behavior, lifetime value (LTV), and customer acquisition strategies.
-
-Our analysis focused on understanding purchase patterns, customer segmentation, and how these insights could inform business decisions.
+This project aimed to analyze ElleVet’s transaction data to address key business questions regarding customer behavior, lifetime value (LTV), and customer acquisition strategies. Our analysis focused on understanding purchase patterns, customer segmentation, and how these insights could inform business decisions.
 
 *The deliverables for this project include:
 1.	A PowerPoint presentation summarizing the analysis, visualizations, and insights derived. Proposals for future projects, including recommendations for additional analyses or initiatives to pursue.
