@@ -16,6 +16,7 @@ A sample of 6,398 rows representing customer transactions, including subscribers
 A workbook of veterinary-related data, including transaction records from 2022–2024, a "Top 100 Vets" list, and additional details on veterinary clinic activity.
 
 *My contribution:
+
 Question Explored: How can we use data to understand, deconstruct, and improve the connection between vets and consumers: we know that 70% of consumers identify a veterinarian’s recommendation as the reason for trying ElleVet. But currently we do not have levers in use to expedite the time it takes vets and consumers to find one another. There are five cohorts that exist in a geography:
 
 1. There are ß vets who carry ElleVet and recommend it
@@ -28,16 +29,23 @@ How do we use geotagging, data science, analytics, to identify members of these 
 
 **Methods:
 •	Cross-Analysis: Preprocess, filter, reclassify customer roles and merge two datasets "All transactions" and "Vets' transactions".
+
 •	Geospatial Analysis: Map the concentration of ElleVet consumers and vets using their geolocation data and geocoding techniques.
+
 •	Cluster Analysis: Use clustering algorithm DBSCAN to quantify concentrations of ∂ consumers and β clinics and highlight areas with unmet demand.
+
 •	Predictive Analysis: Propose a propensity model to infer Z clinics who recommend but not carry ElleVet.
 
 **Key Findings:
 •	An interactive map used to assess the density of existing consumers with existing vets in each specific area.
+
 •	Precise identification of high-density regions and actionable metrics for targeted outreach or marketing, such as the number of clusters, size of each cluster, and density of consumers/vets in each.
+
 •	Predictive model development: Conducted feature engineering and proposed a classification model concept (propensity model) to infer Z Clinics.
 
 **Limitations:
 •	Limitation on tracking consumer data (referrals, demographic features, feedback, etc) and the connection between consumers – referral programs – vets.
+
 •	No unpaid or public data sources about Pet Ownership rate/population and Clinic Density per area were found.
+
 •	Not enough data for training the predictive model (need non-Ellevet clinic list and other survey data)
