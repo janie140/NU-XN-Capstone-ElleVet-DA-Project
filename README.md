@@ -4,8 +4,7 @@ This project aimed to analyze ElleVet’s transaction data to address key busine
 Our analysis focused on understanding purchase patterns, customer segmentation, and how these insights could inform business decisions.
 
 *The deliverables for this project include:
-1.	A PowerPoint presentation summarizing the analysis, visualizations, and insights derived.
-a.	Proposals for future projects, including recommendations for additional analyses or initiatives to pursue.
+1.	A PowerPoint presentation summarizing the analysis, visualizations, and insights derived. Proposals for future projects, including recommendations for additional analyses or initiatives to pursue.
 2.	Individual code files used for the analyses. 
 3.	This summary document, which outlines the questions tackled by each team member, datasets used, and the associated code files.
    
